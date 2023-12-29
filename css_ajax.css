@@ -31,7 +31,7 @@ h1{
     display: flex;
     align-items: center;
     justify-content: center;
-    font-weight: 500;
+    font-weight: bold;
     scale: 2;
 }
 
@@ -76,4 +76,39 @@ table{
     justify-content: center;
 }
 
+.ranglijst{
+    font-weight: bold;
+}
+
+.vierentwintig{
+    font-weight: bold;
+}
+
+.vijf{
+    font-weight: bold;
+}
+
+.home{
+    font-weight: bold;
+}
+
+.geschiedenis{
+    font-weight: bold;
+}
+
+.financien{
+    font-weight: bold;
+}
+
+.rivaliteit{
+    font-weight: bold;
+}
+
+.directeurs{
+    font-weight: bold;
+}
+
+.picornie{
+    font-style: italic;
+}
 
